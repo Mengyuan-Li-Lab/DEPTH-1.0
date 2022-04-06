@@ -73,7 +73,7 @@ You can install the released version of ‘DEPTH’ with:
 if (!requireNamespace("devtools", quietly = TRUE))
     install.packages("devtools")
     
-devtools::install_github("Mengyuan-Li-Lab/DEPTH/DEPTH")
+devtools::install_github("Mengyuan-Li-Lab/DEPTH 1.0/DEPTH")
 ```
 
 ## Examples
@@ -90,3 +90,5 @@ DEPTH(exp, match)
 
 Mengyuan Li, Zhilan Zhang, Lin Li, Xiaosheng Wang. An algorithm to quantify intratumor heterogeneity based on alterations of gene expression profiles. Communications Biology 2020, 3(1), 505. DOI: https://doi.org/10.1038/s42003-020-01230-7.
 
+## Contact
+E-mail any questions to Mengyuan Li <300562@njucm.edu.cn; 18795881578@163.com>
